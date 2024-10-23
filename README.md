@@ -13,9 +13,7 @@ Graduation Date: December 2024
 **Bachelor of Science in Engineering**  
 **Specializations**: Industrial Management
 Mercer University, Macon, GA 
-
 GPA: 3.78
-
 Graduation Date: May 2023
 
 ## 🏆 Academic Awards and Honors
