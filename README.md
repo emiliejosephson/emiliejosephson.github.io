@@ -3,7 +3,8 @@
 ## 🎯 Mission
 Aspiring engineering leader passionate about tackling energy and healthcare inequity challenges through digital enablement. I am driven to make sustainable impacts in my profession and philanthropic endeavors through process expertise and an emphasis on collaborative inclusivity. 
 
-![Profile Image](_DSC9294.JPG)
+<img src="_DSC9294.JPG" alt="Profile Image" style="width:200px;">
+
 
 
 
