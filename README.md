@@ -24,8 +24,9 @@ Graduation Date: May 2023
 
 ## 🏆 Academic Awards and Honors
 - **Academic Excellence**: Oustanding Graduate Award in Industrial Management (2023)
-- **Dean’s List**: Rice University (2023-2024)
-- **Honor Society Membership**: International Economics Honor Society, National Leadership Honor Society, Order of the Engineering Soceity
+- **Presidents’s List**: Mercer University (2022)
+- **Dean’s List**: Mercer University (2020, 2021, 2023)
+- **Honor Society Membership**: International Economics Honor Society, National Leadership Honor Society, Order of the Engineering Society
 
 ## 💼 Work Experience
 
