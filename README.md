@@ -7,8 +7,6 @@ Aspiring engineering leader passionate about tackling energy and healthcare ineq
 
 
 
-
-
 ## 🎓 Education
 **Master of Engineering Management and Leadership**  
 **Specializations**: Industrial Engineering 
