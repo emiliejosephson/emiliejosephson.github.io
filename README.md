@@ -3,6 +3,9 @@
 ## 🎯 Mission
 Aspiring engineering leader passionate about tackling energy and healthcare inequity challenges through digital enablement. I am driven to make sustainable impacts in my profession and philanthropic endeavors through process expertise and an emphasis on collaborative inclusivity. 
 
+![Profile Image](assets/images/_DSC9294.JPG)
+
+
 ## 🎓 Education
 **Master of Engineering Management and Leadership**  
 **Specializations**: Industrial Engineering 
