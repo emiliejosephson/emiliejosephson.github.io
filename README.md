@@ -1,7 +1,7 @@
 # 👩‍💻 Emilie Josephson
 
-## 🎯 Objective
-To secure a challenging full-time position to exercise and expand industrial and systems engineering knowledge with the opportunity to gain additional skills in automated systems design and integration, process improvement and development, controls engineering, data analytics, and product management while developing an adaptive and supportive leadership style.
+## 🎯 Mission
+Aspiring engineering leader passionate about tackling energy and healthcare inequity challenges through digital enablement. I am driven to make sustainable impacts in my profession and philanthropic endeavors through process expertise and an emphasis on collaborative inclusivity. 
 
 ## 🎓 Education
 **Master of Engineering Management and Leadership**  
@@ -13,13 +13,13 @@ Graduation Date: December 2024
 **Bachelor of Science in Engineering**  
 **Specializations**: Industrial Management
 Mercer University, Macon, GA 
+GPA: 3.78
 Graduation Date: May 2023
 
 ## 🏆 Academic Awards and Honors
+- **Academic Excellence**: Oustanding Graduate Award in Industrial Management (2023)
 - **Dean’s List**: Rice University (2023-2024)
-- **Summa Cum Laude**: Mercer University (2021-2022)
-- **Academic Excellence Scholarship**: Rice University
-- **Honor Society Membership**: Alpha Pi Mu (Industrial Engineering Honor Society)
+- **Honor Society Membership**: International Economics Honor Society, National Leadership Honor Society, Order of the Engineering Soceity
 
 ## 💼 Work Experience
 
@@ -34,8 +34,8 @@ Graduation Date: May 2023
 
 ### Lonza Biologics Inc., Process and Project Engineering Intern (2023-2024)
 - Managed a $5M chilled water system improvement project, leading to an 11% cost savings and a 32% capacity expansion recommendation for peak operating conditions.
-- Identified issues in building automation system PLC logic, organized commissioning improvements, and enhanced operational system testing for HVAC and chilled water systems.
-- Published SOPs and developed an alarm response strategy for the site building automation system, leading to the certification of site-wide processes.
+- Identified issues in building automation system PLC logic, organized commissioning improvements and enhanced operational system testing for HVAC and chilled water systems.
+- Published SOPs and developed an alarm response strategy for the site-building automation system, leading to the certification of site-wide processes.
 
 ### J. Crew Distribution Center, Industrial Engineering Intern (2022)
 - Created a digital facility layout in the Manhattan warehouse management system and deployed a production monitoring platform.
@@ -50,7 +50,7 @@ Graduation Date: May 2023
 - Lean Six Sigma Green Belt Certified
 - Microsoft Project (Excel), SQL
 - Optimization Programming: Python, R
-- Mini Tab, Tableau
+- Mini Tab, Tableau, Power BI
 - Arena Process Simulation Software
 - PLC Programming: LD/FBD
 - AutoCAD, SolidWorks
