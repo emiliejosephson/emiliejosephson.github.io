@@ -7,13 +7,17 @@ Aspiring engineering leader passionate about tackling energy and healthcare ineq
 **Master of Engineering Management and Leadership**  
 **Specializations**: Industrial Engineering 
 Rice University, Houston, TX  
+
 GPA: 4.0  
+
 Graduation Date: December 2024
 
 **Bachelor of Science in Engineering**  
 **Specializations**: Industrial Management
 Mercer University, Macon, GA 
+
 GPA: 3.78
+
 Graduation Date: May 2023
 
 ## 🏆 Academic Awards and Honors
