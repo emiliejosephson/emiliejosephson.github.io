@@ -1,6 +1,9 @@
 # 👩‍💻 Emilie Josephson
 
-"StockTune-Sunset Coffee Break_1729731655.mp3"
+<audio controls>
+  <source src="StockTune-Sunset%20Coffee%20Break_1729731655.mp3" type="audio/mpeg">
+</audio>
+
 
 ## 🎯 Mission
 Aspiring engineering leader passionate about tackling energy and healthcare inequity challenges through digital enablement. I am driven to make sustainable impacts in my profession and philanthropic endeavors through process expertise and an emphasis on collaborative inclusivity. 
