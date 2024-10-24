@@ -68,7 +68,7 @@ Graduation Date: May 2023
 - Microsoft Project (Excel), SQL
 - Optimization Programming: Python, R
 - Mini Tab, Tableau, Power BI
-- Arena Process Simulation Software
+- Arena Process Simulation Software, Visio
 - PLC Programming: LD/FBD
 - AutoCAD, SolidWorks
 - Adobe Certified Associate
