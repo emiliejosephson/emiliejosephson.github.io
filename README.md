@@ -1,9 +1,11 @@
 # 👩‍💻 Emilie Josephson
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" 
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1269490914&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
-</iframe>
+<audio controls>
+  <source src="path_to_your_audio_file.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 
 
 
