@@ -1,5 +1,10 @@
 # 👩‍💻 Emilie Josephson
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" 
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1196359670&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true">
+</iframe>
+
+
 ## 🎯 Mission
 Aspiring engineering leader passionate about tackling energy and healthcare inequity challenges through digital enablement. I am driven to make sustainable impacts in my profession and philanthropic endeavors through process expertise and an emphasis on collaborative inclusivity. 
 
