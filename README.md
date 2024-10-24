@@ -40,7 +40,7 @@ Graduation Date: May 2023
 
 ## 💼 Work Experience
 
-### MD Anderson, Healthcare Systems Engineering Intern (2024)
+### MD Anderson Cancer Center, Healthcare Systems Engineering Intern (2024)
 - Updated and reconfigured ambulatory treatment care algorithms for six service lines to be utilized in SOP documentation creation.
 - Created a data model to determine the demand and supply mismatch, assessing GI and Colorectal demand by patient type, considering physician session limits and facility resources.
 
