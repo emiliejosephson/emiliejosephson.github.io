@@ -1,4 +1,4 @@
-# 👩‍💻 Emilie Josephson
+# 👩‍💻 Personal Portfolio
 
 <audio controls>
   <source src="StockTune-Sunset%20Coffee%20Break_1729731655.mp3" type="audio/mpeg">
