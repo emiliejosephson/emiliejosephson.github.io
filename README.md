@@ -10,6 +10,9 @@ Aspiring engineering leader passionate about tackling energy and healthcare ineq
 
 
 ![image](https://github.com/user-attachments/assets/85518051-788d-4a7f-80ed-98926a61f64f)
+
+
+
 Contact: https://www.linkedin.com/in/emilie-josephson-5a012b187/
 
 
