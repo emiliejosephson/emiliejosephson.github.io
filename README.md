@@ -5,12 +5,12 @@
 </audio>
 
 
-## 🎯 Mission
+## 🎯 Mission & Call to Action
 Aspiring engineering leader passionate about tackling energy and healthcare inequity challenges through digital enablement. I am driven to make sustainable impacts in my profession and philanthropic endeavors through process expertise and an emphasis on collaborative inclusivity. 
 
 
 ![image](https://github.com/user-attachments/assets/85518051-788d-4a7f-80ed-98926a61f64f)
-
+Contact: https://www.linkedin.com/in/emilie-josephson-5a012b187/
 
 
 ## 🎓 Education
