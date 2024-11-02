@@ -13,9 +13,7 @@ Aspiring engineering leader passionate about tackling energy and healthcare ineq
 
 
 
-Contact:  [Emilie Josephson's LinkedIn](https://www.linkedin.com/in/[www.linkedin.com/in/
-emilie-josephson-5a012b187
-)
+Contact: Emilie Josephson's LinkedIn
 
 
 ## 🎓 Education
