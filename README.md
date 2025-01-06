@@ -45,11 +45,11 @@ Graduation Date: May 2023
 
 ### MD Anderson Cancer Center, Healthcare Systems Engineering Intern (2024)
 
--Designed and implemented ATC decision tree algorithms across seven TMC divisions using Visio, improving workflows and streamlining FAA onboarding processes, and created a systems alignment matrix to optimize system interfaces and enhance coordination with ambulatory business services, resulting in more efficient task management.
+- Designed and implemented ATC decision tree algorithms across seven TMC divisions using Visio, improving workflows and streamlining FAA onboarding processes, and created a systems alignment matrix to optimize system interfaces and enhance coordination with ambulatory business services, resulting in more efficient task management.
 - Performed demand forecasts for infusion centers through 2025, based on Epic patient scheduling data, incorporating growth rates to support ATC Capacity Management strategies.
 - Utilized Python to analyze patient access modeling data and automate reporting, facilitating collaborative planning and resource allocation.  
--Created Python scripts to manipulate modality data, calculate appointment ratios, and optimize scheduling efficiency for diagnostic imaging. Automated Excel reporting processes, improving appointment lead times and supporting supply-demand optimization for better resource utilization and operational efficiency.
--Conducted a TCM workflow assessment using time studies to identify onboarding, reporting, and call inefficiencies.
+- Created Python scripts to manipulate modality data, calculate appointment ratios, and optimize scheduling efficiency for diagnostic imaging. Automated Excel reporting processes, improving appointment lead times and supporting supply-demand optimization for better resource utilization and operational efficiency.
+- Conducted a TCM workflow assessment using time studies to identify onboarding, reporting, and call inefficiencies.
 - Developed Power BI visualizations and a supply-demand Excel optimization model for patient access groups to improve task allocation and enable data-driven team decision-making.
 
 ### ExxonMobil, Global Supply Chain Logistics Intern (2024)
