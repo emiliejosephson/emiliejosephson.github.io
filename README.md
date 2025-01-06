@@ -44,13 +44,17 @@ Graduation Date: May 2023
 ## 💼 Work Experience
 
 ### MD Anderson Cancer Center, Healthcare Systems Engineering Intern (2024)
-- Updated and reconfigured ambulatory treatment care algorithms for six service lines to be utilized in SOP documentation creation.
-- Created a data model to determine the demand and supply mismatch, assessing GI and Colorectal demand by patient type, considering physician session limits and facility resources.
+-Designed and implemented ATC decision tree algorithms across seven TMC divisions using Visio, improving workflows and streamlining FAA onboarding processes, and created a systems alignment matrix to optimize system interfaces and enhance coordination with ambulatory business services, resulting in more efficient task management.
+- Performed demand forecasts for infusion centers through 2025, based on Epic patient scheduling data, incorporating growth rates to support ATC Capacity Management strategies.
+- Utilized Python to analyze patient access modeling data and automate reporting, facilitating collaborative planning and resource allocation.
+-Created Python scripts to manipulate modality data, calculate appointment ratios, and optimize scheduling efficiency for diagnostic imaging. Automated Excel reporting processes, improving appointment lead times and supporting supply-demand optimization for better resource utilization and operational efficiency.
+-Conducted a TCM workflow assessment using time studies to identify onboarding, reporting, and call inefficiencies.
+- Developed Power BI visualizations and a supply-demand Excel optimization model for patient access groups to improve task allocation and enable data-driven team decision-making.
 
 ### ExxonMobil, Global Supply Chain Logistics Intern (2024)
 - Analyzed and actioned datasets across multiple marine, rail, and trucking modes to save $1.03M/year in invertible demurrage costs.
 - Applied predictive analytics machine learning models for corporate-wide data standardization, achieving 93% accuracy in identifying demurrage root causes.
-- Collaborated with global teams to investigate and amend contractual incoterms, resulting in $3.5M in improvements, using Industry 4.0 tools.
+- Collaborated with global teams to investigate and amend contractual incoterms, using Industry 4.0 tools, resulting in $3.5M in improvements.
 
 ### Lonza Biologics Inc., Process and Project Engineering Intern (2023-2024)
 - Managed a $5M chilled water system improvement project, leading to an 11% cost savings and a 32% capacity expansion recommendation for peak operating conditions.
