@@ -6,7 +6,9 @@
 
 
 ## 🎯 Mission & Call to Action
-Aspiring engineering leader passionate about tackling energy and healthcare inequity challenges through digital enablement. I am driven to make sustainable impacts in my profession and philanthropic endeavors through process expertise and an emphasis on collaborative inclusivity. 
+Aspiring engineering and data science leader passionate about tackling energy and healthcare inequity challenges through digital enablement. I am committed to ensuring the integrity, equity, and reliability of enterprise artificial intelligence and machine learning solutions. 
+
+Driven to make sustainable impacts in both my profession and philanthropic endeavors, I leverage process expertise and a focus on collaborative inclusivity to deliver meaningful, ethical, and lasting outcomes.
 
 
 ![image](https://github.com/user-attachments/assets/85518051-788d-4a7f-80ed-98926a61f64f)
@@ -18,7 +20,7 @@ Contact: [Emilie Josephson's LinkedIn](https://www.linkedin.com/in/emilie-joseph
 
 ## 🎓 Education
 **Master of Engineering Management and Leadership**  
-**Specializations**: Industrial Engineering 
+**Specializations**: Operations Research and Data Science
 
 Rice University, Houston, TX  
 
@@ -42,6 +44,10 @@ Graduation Date: May 2023
 - **Honor Society Membership**: International Economics Honor Society, National Leadership Honor Society, Golden Key Honor Society, Order of the Engineering Society
 
 ## 💼 Work Experience
+
+## Exxon Mobil, Advanced Analytics Advisor (2025- Present) 
+- Devloping Gen AI solutions for Logistics and Sales/ Operations Supply Chain division utilsing ETL orchestration built across the Databricks and AWS plagtform focusing on OCR transformation, predective analytics and RAG applications.
+- Improving accuracry of forecasting metholodgies through API orchestration, unit testing, and redefinition of training periods on a system needed revisitation on our providers platforms for mainteance. 
 
 ### MD Anderson Cancer Center, Healthcare Systems Engineering Intern (2024)
 
@@ -71,18 +77,17 @@ Graduation Date: May 2023
 - Gained expertise in CNC machinery and traditional machining techniques, including milling and metal lathing.
 - Regulated inventory, performed high-precision quality checks, and supported project management activities for the firm’s new facility.
 
-## 💻 Technical Skills
-- Lean Six Sigma Green Belt Certified
-- Microsoft Project (Excel), SQL
-- Optimization Programming: Python, R
-- Mini Tab, Tableau, Power BI
-- Arena Process Simulation Software, Visio
-- PLC Programming: LD/FBD
-- AutoCAD, SolidWorks
-- Adobe Certified Associate
+## 💻 Technical Skills & Certifiations
+- Programming & Data Science: Python, R, SQL, Streamlit, TensorFlow, XGBoost, PyTorch
+- Cloud & Big Data Platforms: AWS, Azure, Databricks, Snowflake
+- Data Engineering & Visualization: ETL Pipelines, Tableau, Power BI, MiniTab
+- Process & Project Management Tools: Microsoft Project, Arena Process Simulation Software, Visio
+- Engineering & Automation: PLC Programming (LD/FBD), AutoCAD, SolidWorks
+- Certifications: Lean Six Sigma Green Belt, Exxon Mobil AI Champion, POMP, Adobe Certified Associate, GHAS
 
 ## 🏗️ Projects, Accomplishments, and Leadership
 
+- **Capstone Design Project with MD Anderson**: This project streamlined the FAA onboarding process by integrating systems, automating error reporting, and transforming complex graphics into clearer, more actionable visuals. It enhanced efficiency, reduced manual steps (2024)
 - **Capstone Design Project with Columbus Water Works**: Led a 5S redesign of warehouses and created a JIT work order and supply scheduling tool using SQL (2022-2023).
 - **Masters in Engineering Management and Leadership Student Association**: Secretary (2024).
 - **Industrial Information and Systems Engineering Society**: Secretary, Founding Board Member (2022).
